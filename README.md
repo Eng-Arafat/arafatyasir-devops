@@ -11,5 +11,5 @@
 - **Monitoring:** Prometheus, Grafana  
 
 ## 🔗 Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/arafatyasir) | [GitHub](https://github.com/arafatyasir-devops)
+[LinkedIn](https://www.linkedin.com/in/arafatyasir) | [GitHub](https://github.com/Eng-Arafat/arafatyasir-devops)
 
