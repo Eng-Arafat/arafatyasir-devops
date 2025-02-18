@@ -1,5 +1,4 @@
 # arafatyasir-devops
-Config files for my GitHub profile.
 👨‍💻 A.S.M AYASIR ARAFAT - DevOps Engineer  
 🚀 Passionate about **Cloud, CI/CD, Automation, and Infrastructure as Code (IaC)**  
 
